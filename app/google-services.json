@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "976496946339",
+    "firebase_url": "https://fir-testlogin-795e0.firebaseio.com",
+    "project_id": "fir-testlogin-795e0",
+    "storage_bucket": "fir-testlogin-795e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976496946339:android:cda9119d6f96c3b7",
+        "android_client_info": {
+          "package_name": "com.example.firebasetestlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976496946339-6lclsotudion3rfpeclbchf9dm6l6dha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArqWo1Heh7LlwW0rPkRL56EatyXhRSKzs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
